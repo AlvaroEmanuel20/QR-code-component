@@ -19,18 +19,18 @@
 }
 
 body {
-    height: 110vh;
+    height: 100vh;
     background: var(--Light-gray);
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    overflow: hidden;
 }
 
 main {
-    width: 20vw;
-    height: 65vh;
+    margin-top: 80px;
+    width: 294px;
+    height: 465px;
     background: var(--white);
     border-radius: 15px;
     display: flex;
@@ -67,6 +67,7 @@ p {
     font-size: var(--font-size-p);
     color: var(--Grayish-blue);
     text-align: center;
+    width: 270px;
     margin-top: 80px;
 }
 
